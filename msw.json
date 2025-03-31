@@ -1,6 +1,57 @@
 [
 	
 	{
+		"name":  "Blue",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/blue.jpg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/blue.jpg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	{
+		"name":  "Blue blur",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/bluex_blur.jpeg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/bluex_blur.jpeg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	{
+		"name":  "breakfast",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/breakfast.jpg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/breakfast.jpg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	{
+		"name":  "Grayscape",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/grayscape.jpg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/grayscape.jpg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	{
+		"name":  "Grayvalley",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/grayvalley.jpg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/grayvalley.jpg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	{
+		"name":  "Green Leaves",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/greenleaves.jpg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/greenleaves.jpg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	{
+		"name":  "Silk",
+	   "author": "",
+	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/silk2.jpg",
+	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/silk2.jpg",
+	   "copyright": "CreativeCommons Attribution-ShareALike"
+   },
+	
+	
+	{
 		"name":  "pure art",
 	   "author": "pawel-czerwinski",
 	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/pawel-czerwinski%20(2).jpg",
