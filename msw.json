@@ -1,12 +1,54 @@
 [
 	
-	{
-		"name":  "Blue",
+{
+  "name":  "Blue",
 	   "author": "",
 	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/blue.jpg",
 	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/blue.jpg",
 	   "copyright": "CreativeCommons Attribution-ShareALike"
    },
+   {
+	"name":  "cold",
+   "author": "",
+   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/cold.jpg",
+   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/cold.jpg",
+   "copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+	"name":  "lake",
+   "author": "aalmeidah",
+   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/lake_by_aalmeidah.png",
+   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/lake_by_aalmeidah.png",
+   "copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+	"name":  "Sand Eve",
+   "author": "",
+   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/sand_eve.jpg",
+   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/sand_eve.jpg",
+   "copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+	"name":  "breakfast",
+   "author": "",
+   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/breakfast.jpg",
+   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/breakfast.jpg",
+   "copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+	"name":  "softpaints",
+   "author": "",
+   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/softpaints.jpg",
+   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/softpaints.jpg",
+   "copyright": "CreativeCommons Attribution-ShareALike"
+},
+{
+	"name":  "yellow Island",
+   "author": "",
+   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/tpr.jpg",
+   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/tpr.jpg",
+   "copyright": "CreativeCommons Attribution-ShareALike"
+},
 	{
 		"name":  "Blue blur",
 	   "author": "",
@@ -14,13 +56,7 @@
 	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/bluex_blur.jpeg",
 	   "copyright": "CreativeCommons Attribution-ShareALike"
    },
-	{
-		"name":  "breakfast",
-	   "author": "",
-	   "url":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/breakfast.jpg",
-	   "thumbnail":  "https://raw.githubusercontent.com/voyager-craft/orangepics/refs/heads/main/orangepics/breakfast.jpg",
-	   "copyright": "CreativeCommons Attribution-ShareALike"
-   },
+	
 	{
 		"name":  "Grayscape",
 	   "author": "",
